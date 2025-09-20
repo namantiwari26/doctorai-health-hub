@@ -133,7 +133,7 @@ const Symptoms = () => {
                   <h4 className="font-semibold text-emergency mb-2">Emergency Symptoms</h4>
                   <p className="text-sm text-muted-foreground leading-relaxed">
                     If you're experiencing chest pain, difficulty breathing, severe bleeding, 
-                    loss of consciousness, or other emergency symptoms, call 911 immediately.
+                    loss of consciousness, or other emergency symptoms, call 112 immediately.
                   </p>
                 </div>
               </div>
